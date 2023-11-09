@@ -26,7 +26,7 @@ function ProjectsCart({title,techno,description,link,imageUrl}) {
                       <p className='project__des'>{description}
                       </p>
                       <div className="project__skill">
-                         {techno.map((item,index) => (
+                         {techno?.map((item,index) => (
                            <span  
                            key={index}
                            className='project__info__techno'

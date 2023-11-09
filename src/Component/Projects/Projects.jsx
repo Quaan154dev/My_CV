@@ -9,7 +9,7 @@ function Projects({data}) {
       <div className="projects__container">
         <p className='projects__title'>Projects</p>
         <div className="projects__item ">
-           {data.map((item) => {
+           {data?.map((item) => {
               return(
                 <div key={item.id} className="">
                     <ProjectsCart

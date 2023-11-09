@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c416919f.css",
+    "main.js": "/static/js/main.aaf8c297.js",
+    "static/js/787.3e88fd70.chunk.js": "/static/js/787.3e88fd70.chunk.js",
+    "static/media/img-3.JPEG": "/static/media/img-3.d123d4ac5193b517d91f.JPEG",
+    "static/media/img-2.JPG": "/static/media/img-2.c65a9523f259de4f0299.JPG",
+    "static/media/img-1.JPG": "/static/media/img-1.02c7b7fa227e473b5c21.JPG",
+    "static/media/sondau2 09.09.55.png": "/static/media/sondau2 09.09.55.4ffdc0818b712b20d48d.png",
+    "static/media/About__avata.jpg": "/static/media/About__avata.e314e7abc6f4bf3a87d0.jpg",
+    "static/media/CV_DaoBaAnhQuan.pdf": "/static/media/CV_DaoBaAnhQuan.c932198a327b2c7aba1b.pdf",
+    "static/media/img-4.JPG": "/static/media/img-4.fd1649e97b505072f156.JPG",
+    "static/media/Logo.png": "/static/media/Logo.83c97a47fc608554e9c2.png",
+    "static/media/img__main.png": "/static/media/img__main.fbec16bfc3783743f3bd.png",
+    "index.html": "/index.html",
+    "main.c416919f.css.map": "/static/css/main.c416919f.css.map",
+    "main.aaf8c297.js.map": "/static/js/main.aaf8c297.js.map",
+    "787.3e88fd70.chunk.js.map": "/static/js/787.3e88fd70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c416919f.css",
+    "static/js/main.aaf8c297.js"
+  ]
+}
